@@ -1,0 +1,5 @@
+Class,Precision,Recall,F1,Support,Correct,Errors
+Glioma,0.9517,0.8514,0.8987,370,315,55
+Meningioma,0.7975,0.578,0.6702,327,189,138
+No Tumor,0.8568,0.9824,0.9153,341,335,6
+Pituitary,0.7805,0.9462,0.8554,372,352,20
