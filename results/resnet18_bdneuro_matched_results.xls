@@ -1,0 +1,3 @@
+Experiment,Training_Size,Evaluation_Size,Accuracy,Macro_F1
+BDNeuro Matched Internal,987,889,0.906636670416198,0.9046819702180888
+BDNeuro Matched -> PMRAM,987,1410,0.8446808510638298,0.8349091199054891
